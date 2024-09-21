@@ -10,8 +10,8 @@ This project focuses on generating innovative AI product ideas. It involves iden
 
 ## Project 2: 
 
-###2.1 consists of study task case study on Market segment analysis
-###2.2 One real world Market Segment analysis
+### 2.1 consists of study task case study on Market segment analysis
+### 2.2 One real world Market Segment analysis
 
 ## 2.1:
 #### Segmentation Study: A deep dive into segmentation techniques, exploring various methodologies and their applications in market analysis and customer profiling.
