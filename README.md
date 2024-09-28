@@ -32,4 +32,7 @@ Identification of key variables for optimal market segmentation: income level, g
 Collect more comprehensive datasets, including demographic and behavioral data.
 Experiment with additional machine learning models, such as Random Forests and Neural Networks.
 
+## Project 3: Financial Modelling
+For this project I performed Business Modelling for the AI product idea of VirtuFurnish proposed in Project 1. This model included various aspects like The actual Business Model, The revenue Streams for VirtuFurnish and the Financial Equations.
+
 
